@@ -2,6 +2,9 @@
 * EDUCATIONAL PURPOSES ONLY :)
 * #### Windows Only! (Will not be releasing project source)
 
+## Current News
+* Discord functionality does not work, I am working on that
+
 ### Features
 * Code Gen
 * Code Checker
