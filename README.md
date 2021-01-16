@@ -5,7 +5,7 @@
 
 ## Current News
 * Discord functionality is working!
-> Its not free though
+> Free for a while!
 
 ### Change Log
 * Discord DM now working
